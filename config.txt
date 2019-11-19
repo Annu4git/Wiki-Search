@@ -1,0 +1,9 @@
+MAX_DOC_COUNT=20000
+MAX_TITLE_COUNT=1000
+MAX_WORD_COUNT=2000
+TOTAL_DOCS=20000000
+
+
+
+# MAX_DOC_COUNT is how many docs to be processed before dumping it into inverted index
+# MAX_TITLE_COUNT is how many titles will be in title
